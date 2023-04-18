@@ -16,3 +16,4 @@ Run a powershell script at startup of your windows machine that lets you know wh
 
 `powershell.exe -noexit -ExecutionPolicy Bypass -File C:/path/to/script/from/step/1`
 
+<sub>This script was made entirely by ChatGPT, modified to ping to `captive.apple.com` (to also activate any network login pages)</sub>
